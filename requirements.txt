@@ -1,0 +1,8 @@
+environs==9.3.4
+fastapi==0.70.0
+uvicorn==0.15.0
+gunicorn==20.1.0
+httptools==0.3.0
+uvloop==0.16.0
+websockets==10.0
+pygtail==0.11.1
